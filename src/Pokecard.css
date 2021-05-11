@@ -1,0 +1,11 @@
+.Pokecard-wrap {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.Pokecard {
+    padding: 3rem;
+    border: 1px black solid;
+    margin: 2rem;
+    text-align: center;
+}
